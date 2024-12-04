@@ -1,0 +1,3 @@
+Python Abstract Syntax Tree - https://earthly.dev/blog/python-ast/
+Code review automation with LLMs - https://www.sciencedirect.com/science/article/pii/S0950584924001289
+AI-powered Code Review with LLMs: Early Results⋆ - https://www.sciencedirect.com/science/article/pii/S0950584924001289
